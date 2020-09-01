@@ -1,16 +1,16 @@
 
   ## Good README Generator
-  ## Create a command-line application that dynamically generates a README.md from a user's input. The application will be invoked with the following command node index.js.
+  Create a command-line application that dynamically generates a README.md from a user's input. The application will be invoked with the following command node index.js.
   
   
   ## Table of contents
-/n* [Description](#Description)
-/n* [Installation](#Installation)
-/n* [Usage](#Usage)
-/n* [Licence](#Licence)
-/n* [Contributors](#Contributors)
-/n* [Test](#Test)
-/n* [GitHub Info](#GitHub) 
+* [Description](#Description)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Licence](#Licence)
+* [Contributors](#Contributors)
+* [Test](#Test)
+* [GitHub Info](#GitHub) 
 
   ## Installation
   Step 1: Run npm install, Step 2: Run node index.js
@@ -22,7 +22,7 @@
   MIT License
   
   ## Contributors
-  Mando619,mathbolson
+  Mando619, mathbolson
   
   ## Test
   no.
