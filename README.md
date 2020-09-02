@@ -28,9 +28,10 @@
   no.
   
   ## GitHub
-  [User name] Diogo Candido da Silva
-  [GitHub Profile](https://github.com/diogocandidos)
-  [User email] diogocandido.s@gmail.com.
+  - [User name] Diogo Candido da Silva
+  - [User email] diogocandido.s@gmail.com.
+  - [GitHub Profile](https://github.com/diogocandidos)
+
   
   <img width="550" alt="demo" src="https://user-images.githubusercontent.com/61811579/91917555-18d28500-ec75-11ea-96be-f677ffb3fbe7.png">
   
