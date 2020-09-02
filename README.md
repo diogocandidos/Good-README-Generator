@@ -4,13 +4,13 @@
   
   
   ## Table of contents
-* [Description](#Description)
-* [Installation](#Installation)
-* [Usage](#Usage)
-* [Licence](#Licence)
-* [Contributors](#Contributors)
-* [Test](#Test)
-* [GitHub Info](#GitHub) 
+  * [Description](#Description)
+  * [Installation](#Installation)
+  * [Usage](#Usage)
+  * [Licence](#Licence)
+  * [Contributors](#Contributors)
+  * [Test](#Test)
+  * [GitHub Info](#GitHub) 
 
   ## Installation
   Step 1: Run npm install, Step 2: Run node index.js
@@ -31,4 +31,6 @@
   [User name] Diogo Candido da Silva
   [GitHub Profile](https://github.com/diogocandidos)
   [User email] diogocandido.s@gmail.com.
+  
+  <img width="550" alt="demo" src="https://user-images.githubusercontent.com/61811579/91917555-18d28500-ec75-11ea-96be-f677ffb3fbe7.png">
   
