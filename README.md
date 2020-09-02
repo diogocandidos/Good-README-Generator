@@ -1,5 +1,7 @@
 
   ## Good README Generator
+  ![License Badge](https://img.shields.io/static/v1?label=License&message=MIT_License&color=blue)
+
   Create a command-line application that dynamically generates a README.md from a user's input. The application will be invoked with the following command node index.js.
   
   
@@ -31,7 +33,8 @@
   - [User name] Diogo Candido da Silva
   - [User email] diogocandido.s@gmail.com.
   - [GitHub Profile](https://github.com/diogocandidos)
-
+  
+   [Youtube link](https://youtu.be/dNNsZQ_CKaA)
   
   <img width="550" alt="demo" src="https://user-images.githubusercontent.com/61811579/91917555-18d28500-ec75-11ea-96be-f677ffb3fbe7.png">
   
